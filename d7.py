@@ -4,7 +4,6 @@ part = 1
 
 combination = {1:[],2:[],"tp":[],3:[],"f":[],4:[],5:[]}
 
-
 for line in input:
     hand = line.split()
     hand_dict = {}
